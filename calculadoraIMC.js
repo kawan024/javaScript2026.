@@ -15,6 +15,5 @@ function calculoIMC(peso, altura){
     else {
         console.log("Clasificação: Obesidade");
     }
-
 }
 calculoIMC(84, 1.84)
