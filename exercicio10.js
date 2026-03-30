@@ -1,6 +1,6 @@
 let saldo = 100;
 let saque = 120;
-id (saque <= saldo) {
+if (saque <= saldo){
     saldo -= saque;}
-else }
-console.log("Saldo insuficiente");}
+else {
+console.log("Saldo insuficiente"); }
